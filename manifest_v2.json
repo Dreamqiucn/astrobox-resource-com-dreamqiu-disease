@@ -44,54 +44,114 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.1",
-      "file_name": "downloads/rw_com.Dreamqiu.disease.release.1.1-xmrw5.rpk",
-      "versionCode": 110
+      "version": "1.2",
+      "file_name": "downloads/rw_com.Dreamqiu.disease.release.1.2.rpk",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增治愈模式，支持十种病原体；"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "1.1",
-      "file_name": "downloads/rw_com.Dreamqiu.disease.release.1.1-xmrw5xring.rpk",
-      "versionCode": 110
+      "version": "1.2",
+      "file_name": "downloads/rw_com.Dreamqiu.disease.release.1.2.rpk",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增治愈模式，支持十种病原体；"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "1.1",
-      "file_name": "downloads/rw_com.Dreamqiu.disease.release.1.1-xmrw6.rpk",
-      "versionCode": 110
+      "version": "1.2",
+      "file_name": "downloads/rw_com.Dreamqiu.disease.release.1.2.rpk",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增治愈模式，支持十种病原体；"
+        }
+      ]
     },
     "xmb10": {
-      "version": "1.1",
-      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.1-xmb10.rpk",
-      "versionCode": 110
+      "version": "1.2",
+      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.2.rpk",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增治愈模式，支持十种病原体；"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.1",
-      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.1-xmb10nfc.rpk",
-      "versionCode": 110
+      "version": "1.2",
+      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.2.rpk",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增治愈模式，支持十种病原体；"
+        }
+      ]
     },
     "xmb11": {
-      "version": "1.1",
-      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.1-xmb11.rpk",
-      "versionCode": 110
+      "version": "1.2",
+      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.2.rpk",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增治愈模式，支持十种病原体；"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "1.1",
-      "file_name": "downloads/pro_com.Dreamqiu.disease.release.1.1-xmb10p.rpk",
-      "versionCode": 110
+      "version": "1.2",
+      "file_name": "downloads/pro_com.Dreamqiu.disease.release.1.2.rpk",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增治愈模式，支持十种病原体；"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.1",
-      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.1-xmb11nfc.rpk",
-      "versionCode": 110
+      "version": "1.2",
+      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.2.rpk",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增治愈模式，支持十种病原体；"
+        }
+      ]
     },
     "xmb9": {
-      "version": "1.1",
-      "file_name": "downloads/9_com.Dreamqiu.disease.release.1.1-xmb9.rpk",
-      "versionCode": 110
+      "version": "1.2",
+      "file_name": "downloads/9_com.Dreamqiu.disease.release.1.2.rpk",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增治愈模式，支持十种病原体；"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "1.1",
-      "file_name": "downloads/pro_com.Dreamqiu.disease.release.1.1-xmb9p.rpk",
-      "versionCode": 110
+      "version": "1.2",
+      "file_name": "downloads/pro_com.Dreamqiu.disease.release.1.2.rpk",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2",
+          "content": "新增治愈模式，支持十种病原体；"
+        }
+      ]
     }
   },
   "ext": {}
