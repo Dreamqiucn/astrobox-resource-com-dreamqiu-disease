@@ -44,10 +44,14 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.3",
-      "file_name": "downloads/rw_com.Dreamqiu.disease.release.1.3.rpk",
-      "versionCode": 130,
+      "version": "1.4",
+      "file_name": "downloads/rw_com.Dreamqiu.disease.release.1.4.rpk",
+      "versionCode": 140,
       "updatelogs": [
+        {
+          "version": "1.4",
+          "content": "新增成就系统"
+        },
         {
           "version": "1.3",
           "content": "更新每日挑战模式，每日刷新随机任务增加全局效果"
@@ -59,10 +63,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.3",
-      "file_name": "downloads/rw_com.Dreamqiu.disease.release.1.3.rpk",
-      "versionCode": 130,
+      "version": "1.4",
+      "file_name": "downloads/rw_com.Dreamqiu.disease.release.1.4.rpk",
+      "versionCode": 140,
       "updatelogs": [
+        {
+          "version": "1.4",
+          "content": "新增成就系统"
+        },
         {
           "version": "1.3",
           "content": "更新每日挑战模式，每日刷新随机任务增加全局效果"
@@ -74,10 +82,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.3",
-      "file_name": "downloads/rw_com.Dreamqiu.disease.release.1.3.rpk",
-      "versionCode": 130,
+      "version": "1.4",
+      "file_name": "downloads/rw_com.Dreamqiu.disease.release.1.4.rpk",
+      "versionCode": 140,
       "updatelogs": [
+        {
+          "version": "1.4",
+          "content": "新增成就系统"
+        },
         {
           "version": "1.3",
           "content": "更新每日挑战模式，每日刷新随机任务增加全局效果"
@@ -89,10 +101,14 @@
       ]
     },
     "xmb10": {
-      "version": "1.3",
-      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.3.rpk",
-      "versionCode": 130,
+      "version": "1.4",
+      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.4.rpk",
+      "versionCode": 140,
       "updatelogs": [
+        {
+          "version": "1.4",
+          "content": "新增成就系统"
+        },
         {
           "version": "1.3",
           "content": "更新每日挑战模式，每日刷新随机任务增加全局效果"
@@ -104,10 +120,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "1.3",
-      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.3.rpk",
-      "versionCode": 130,
+      "version": "1.4",
+      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.4.rpk",
+      "versionCode": 140,
       "updatelogs": [
+        {
+          "version": "1.4",
+          "content": "新增成就系统"
+        },
         {
           "version": "1.3",
           "content": "更新每日挑战模式，每日刷新随机任务增加全局效果"
@@ -119,10 +139,14 @@
       ]
     },
     "xmb11": {
-      "version": "1.3",
-      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.3.rpk",
-      "versionCode": 130,
+      "version": "1.4",
+      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.4.rpk",
+      "versionCode": 140,
       "updatelogs": [
+        {
+          "version": "1.4",
+          "content": "新增成就系统"
+        },
         {
           "version": "1.3",
           "content": "更新每日挑战模式，每日刷新随机任务增加全局效果"
@@ -134,10 +158,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.3",
-      "file_name": "downloads/pro_com.Dreamqiu.disease.release.1.3.rpk",
-      "versionCode": 130,
+      "version": "1.4",
+      "file_name": "downloads/pro_com.Dreamqiu.disease.release.1.4.rpk",
+      "versionCode": 140,
       "updatelogs": [
+        {
+          "version": "1.4",
+          "content": "新增成就系统"
+        },
         {
           "version": "1.3",
           "content": "更新每日挑战模式，每日刷新随机任务增加全局效果"
@@ -149,10 +177,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "1.3",
-      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.3.rpk",
-      "versionCode": 130,
+      "version": "1.4",
+      "file_name": "downloads/10_com.Dreamqiu.disease.release.1.4.rpk",
+      "versionCode": 140,
       "updatelogs": [
+        {
+          "version": "1.4",
+          "content": "新增成就系统"
+        },
         {
           "version": "1.3",
           "content": "更新每日挑战模式，每日刷新随机任务增加全局效果"
@@ -164,10 +196,14 @@
       ]
     },
     "xmb9": {
-      "version": "1.3",
-      "file_name": "downloads/9_com.Dreamqiu.disease.release.1.3.rpk",
-      "versionCode": 130,
+      "version": "1.4",
+      "file_name": "downloads/9_com.Dreamqiu.disease.release.1.4.rpk",
+      "versionCode": 140,
       "updatelogs": [
+        {
+          "version": "1.4",
+          "content": "新增成就系统"
+        },
         {
           "version": "1.3",
           "content": "更新每日挑战模式，每日刷新随机任务增加全局效果"
@@ -179,10 +215,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.3",
-      "file_name": "downloads/pro_com.Dreamqiu.disease.release.1.3.rpk",
-      "versionCode": 130,
+      "version": "1.4",
+      "file_name": "downloads/pro_com.Dreamqiu.disease.release.1.4.rpk",
+      "versionCode": 140,
       "updatelogs": [
+        {
+          "version": "1.4",
+          "content": "新增成就系统"
+        },
         {
           "version": "1.3",
           "content": "更新每日挑战模式，每日刷新随机任务增加全局效果"
@@ -192,6 +232,11 @@
           "content": "新增治愈模式，支持十种病原体；"
         }
       ]
+    },
+    "vivowgt2": {
+      "version": "1.4",
+      "file_name": "downloads/com.Dreamqiu.disease.release.production.1.4.rpk",
+      "versionCode": 140
     }
   },
   "ext": {}
